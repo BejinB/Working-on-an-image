@@ -1,11 +1,11 @@
 <H3>Name: Bejin.B </H3>
 <H3>Register no: 212222230021</H3>
-<H3>Date: </H3>
+<H3>Date:14.9.24 </H3>
 
 # WORKING ON AN IMAGE
 
 # PROGRAM:
-python
+```python
 import cv2
 import matplotlib.pyplot as plt
 
@@ -34,6 +34,7 @@ plt.imshow(image1_resized)
 plt.show()
 plt.imshow(image2_resized)
 plt.show()
+```
 
 # OUTPUT:
 ## Image 1:
